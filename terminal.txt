@@ -43,4 +43,4 @@ mv b1.txt c1.json fol3/
 далее создаем выполняемый файл
 cmod +x task.sh
 запускаем 
-./task.shc
+./task.sh
